@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "晋江文学",
   "version": 100,
   "category": 1,
-  "url": "",
+  "url": "http://www.jjwxc.net",
   "charset": "utf-8",
   "metadata": {
     "name": [""],
@@ -28,7 +28,7 @@
     "text": ""
   },
   "search": {
-    "link": "",
-    "list": ""
+    "link": "http://www.jjwxc.net/search.php?kw=${key}",
+    "list": "div.result-list > div"
   }
 }
