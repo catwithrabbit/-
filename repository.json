@@ -3,11 +3,11 @@
   "summary": "按照个需求创建的书源",
   "list": [
     {
-      "name": "示例书源1",
-      "url": "",
-      "category": 0,
-      "rank": 0,
-      "auth": false,
+      "name": "晋江文学",
+      "url": "http://www.jjwxc.net",
+      "category": 1,
+      "rank": 13,
+      "auth": true,
       "version": 100
     },
     {
